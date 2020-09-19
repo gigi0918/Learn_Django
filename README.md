@@ -62,11 +62,11 @@ def Dcard_visulize(request):
 功能: 搜尋主題，分為Dcard、PTT、fb 等按鈕進行分析。
 Button: Dcard、PTT、fb
 
--- POST_crawl
+- POST_crawl
 功能:顯示 Dcard 的ID、愛心數、留言數、文章情緒值(圖片顯示or數值?)，可針對單一文章進行分析。
 Button: 分析、下一頁(?)。
 
--- Dcard_visulize
+- Dcard_visulize
 功能: DashBoard (主要:標題、愛心數、留言數、文章內容、文章情緒值、留言內容、留言情緒值)
 
 
