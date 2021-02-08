@@ -1,4 +1,4 @@
-#　Ｄjango 網路框架(Python)
+# Ｄjango 網路框架(Python)
 
 ### 環境設置 
 
@@ -20,7 +20,7 @@ $ python manage.py runserver
 ```
 Brower： http://127.0.0.1:8000/
 
-###　爬蟲
+### 爬蟲
 
 
 首頁路徑: home / templates / crawl_home.html
